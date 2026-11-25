@@ -1,0 +1,6 @@
+{
+  "name": "EveryChildLearn",
+  "description": "A simple, friendly learning app helping children master alphabets, clear word pronunciation, explanatory video lessons, quizzes, educational games, drawing, and rank rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
